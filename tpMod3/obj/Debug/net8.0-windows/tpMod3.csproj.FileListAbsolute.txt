@@ -14,3 +14,4 @@ C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\D
 C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.pdb
 C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.genruntimeconfig.cache
 C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\ref\tpMod3.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.sourcelink.json
