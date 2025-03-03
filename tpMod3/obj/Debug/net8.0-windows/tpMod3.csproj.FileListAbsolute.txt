@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\bin\Debug\net8.0-windows\tpMod3.exe
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\bin\Debug\net8.0-windows\tpMod3.deps.json
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\bin\Debug\net8.0-windows\tpMod3.runtimeconfig.json
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\bin\Debug\net8.0-windows\tpMod3.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\bin\Debug\net8.0-windows\tpMod3.pdb
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.Form1.resources
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.AssemblyInfo.cs
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\refint\tpMod3.dll
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.pdb
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\tpMod3.genruntimeconfig.cache
+C:\Users\user\OneDrive - Telkom University\Semester 4\KPL\w2\tpMod3\tpMod3\obj\Debug\net8.0-windows\ref\tpMod3.dll
